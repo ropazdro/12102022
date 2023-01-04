@@ -1,0 +1,26 @@
+body
+{
+    font: large;
+    margin: 20px;
+    line-height: 20px;
+}
+.top
+{
+    min-width: 900px;
+}
+.mid
+{
+    position: relative;
+    overflow: auto;
+}
+#suskrates, #booter, #lipsum, .a
+{
+    border-radius: 4px;
+    margin: 4px;
+}
+#suskrates
+{
+    background-color: #4caf50;
+    color: #FFFFFF;
+    padding:15px;
+}
